@@ -1,0 +1,43 @@
+---
+title: "reading_data_from_the_web.Rmd"
+output: github_document
+---
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(rvest)
+library(httr)
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
