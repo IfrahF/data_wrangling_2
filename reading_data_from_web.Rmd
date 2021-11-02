@@ -61,6 +61,29 @@ swm_df =
     title = title_vec,
     rev = gross_rev_vec,
     runtime = runtime_vec)
+
+votes = 
+  swm_html %>%
+  html_elements(".mode-detail:nth-child(9) span , .mode-detail:nth-child(8) span , .mode-detail:nth-child(7) span , .mode-detail:nth-child(6) span , .mode-detail:nth-child(5) span , .mode-detail:nth-child(3) span , .mode-detail:nth-child(1) span") %>%
+  html_text()
+```
+
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+
+```{r, message=FALSE, warning=FALSE}
+
+```
+
+
+
+```{r, message=FALSE, warning=FALSE}
+
 ```
 
 
